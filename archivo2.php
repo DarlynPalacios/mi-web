@@ -6,7 +6,7 @@
 
 </head>
 <body>
-<h1>Tus Datos de suscripción: </h1>
+<h1>Tus Datos </h1>
 <p>Estos son los datos que nos has enviado:</p>
 <?php  
 echo "Nombre: "; echo $_POST['nombre']; echo "<br/>";
